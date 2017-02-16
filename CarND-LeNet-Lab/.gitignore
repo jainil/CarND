@@ -5,6 +5,7 @@ lenet.data*
 lenet.index
 lenet.meta*
 *.sw*
+lenet
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
